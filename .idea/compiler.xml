@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-config" />
         <module name="spring-cloud-config-client" />
+        <module name="spring-cloud-config-eureka" />
         <module name="spring-cloud-eureka" />
         <module name="spring-cloud-eureka-client" />
         <module name="spring-cloud-eureka-feign" />
@@ -20,6 +21,7 @@
       <module name="Spring-Cloud" target="1.8" />
       <module name="spring-cloud-config" target="1.8" />
       <module name="spring-cloud-config-client" target="1.8" />
+      <module name="spring-cloud-config-eureka" target="1.8" />
       <module name="spring-cloud-eureka" target="1.8" />
       <module name="spring-cloud-eureka-client" target="1.8" />
       <module name="spring-cloud-eureka-feign" target="1.8" />
