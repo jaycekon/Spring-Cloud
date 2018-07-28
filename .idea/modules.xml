@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud.iml" filepath="$PROJECT_DIR$/Spring-Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-feign/spring-cloud-eureka-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-feign/spring-cloud-eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-hystrix/spring-cloud-eureka-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-hystrix/spring-cloud-eureka-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-ribbon/spring-cloud-eureka-ribbon.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-ribbon/spring-cloud-eureka-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-zuul/spring-cloud-eureka-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-zuul/spring-cloud-eureka-zuul.iml" />
+    </modules>
+  </component>
+</project>
