@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/spring-cloud-config/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-avaliability-eurka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-avaliability-eurka-client/pom.xml" />
       </list>
     </option>
   </component>

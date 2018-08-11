@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-Cloud.iml" filepath="$PROJECT_DIR$/Spring-Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-avaliability-eurka/spring-cloud-avaliability-eurka.iml" filepath="$PROJECT_DIR$/spring-cloud-avaliability-eurka/spring-cloud-avaliability-eurka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-avaliability-eurka-client/spring-cloud-avaliability-eurka-client.iml" filepath="$PROJECT_DIR$/spring-cloud-avaliability-eurka-client/spring-cloud-avaliability-eurka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-config-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-config-eureka.iml" />

@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-avaliability-eurka" />
+        <module name="spring-cloud-avaliability-eurka-client" />
         <module name="spring-cloud-config" />
         <module name="spring-cloud-config-client" />
         <module name="spring-cloud-config-eureka" />
@@ -19,6 +21,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring-Cloud" target="1.8" />
+      <module name="spring-cloud-avaliability-eurka" target="1.8" />
+      <module name="spring-cloud-avaliability-eurka-client" target="1.8" />
       <module name="spring-cloud-config" target="1.8" />
       <module name="spring-cloud-config-client" target="1.8" />
       <module name="spring-cloud-config-eureka" target="1.8" />
